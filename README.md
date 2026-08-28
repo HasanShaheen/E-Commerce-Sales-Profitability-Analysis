@@ -5,6 +5,7 @@ An end-to-end business intelligence project analyzing retail revenue, discount s
 ---
 
 ## 📌 Live Interactive Dashboard
+![Dashboard Preview](dashboard_preview.png)
 [Link to Tableau Public Dashboard](https://public.tableau.com/app/profile/hasan.shaheen/viz/E-CommerceSalesProfitabilityAnalysis/Dashboard1?publish=yes)
 
 ---
